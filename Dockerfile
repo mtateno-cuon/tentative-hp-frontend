@@ -1,4 +1,4 @@
-FROM node:22.5.1
+FROM public.ecr.aws/cuon-inc/node:18-rocky8
 
 WORKDIR /app
 
